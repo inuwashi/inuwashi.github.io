@@ -1,6 +1,4 @@
-**Adam Grandt**
-
-1255 22nd St. NW Apt 610 - Washington DC, 20037 - 646.867.1471 - adam.grandt@gmail.com
+Washington DC, 20018 - 646.867.1471 - adam.grandt@gmail.com
 
 An experienced technical leader and enterprise architect with an agile skill set and a proven track record of bringing about technological change to meet organizational objectives.
 
@@ -14,7 +12,8 @@ An experienced technical leader and enterprise architect with an agile skill set
 # PROFESSIONAL EXPERIENCE
 
 **General Services Administration (GSA),** Washington, DC, USA
- Technology Transformation Services (TTS), Centers of Excellence (CoE)
+Technology Transformation Services (TTS), Centers of Excellence (CoE)
+
 **Managing Director, Infrastructure Optimization and Cloud Adoption
  Center of Excellence (CoE)** (GS-15), 04/2019 - PRESENT
 
