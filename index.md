@@ -33,8 +33,10 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 `January 2028 - June 2028`
 __General Services Administration (GSA)__, Washington, DC, USA
-Technology Transformation Services (TTS), Centers of Excellence (CoE)
-**Managing Director, Infrastructure Optimization and Cloud Adoption Center of Excellence (CoE)** (GS-15)
+Technology Transformation Services (TTS),
+Centers of Excellence (CoE)
+**Managing Director, Infrastructure Optimization and**
+**Cloud Adoption Center of Excellence (CoE)** (GS-15)
 
 
 The Centers of Excellence (CoE) are agile IT modernization teams designed to modernize federal agency infrastructure in a repeatable, scalable manner based on best practices. In this role, I lead a team of senior excerpts as we support agencies across the government in every stage of their digital modernization journey.
