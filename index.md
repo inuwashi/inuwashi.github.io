@@ -33,9 +33,13 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 `January 2028 - June 2028`
 __General Services Administration (GSA)__, Washington, DC, USA
+
 Technology Transformation Services (TTS),
+
 Centers of Excellence (CoE)
+
 **Managing Director, Infrastructure Optimization and**
+
 **Cloud Adoption Center of Excellence (CoE)** (GS-15)
 
 
