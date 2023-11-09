@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Adam Grandt's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Adam Grandt
+An experienced technical leader and enterprise architect with an agile skill set and a proven track record of bringing about technological change to meet organizational objectives.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="adam.grandt@gmail.com">adam.grandt@gmail.com</a>
+| <a href="tel:+16468671471">646.867.1471</a>
+| <a href="https://www.linkedin.com/in/adam-grandt-ht0/">LinkedIn</a>
+| <a href="https://github.com/inuwashi">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -29,19 +29,14 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
+### Technology Leadership
 
 `January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__General Services Administration (GSA)__, Washington, DC, USA
+Technology Transformation Services (TTS), Centers of Excellence (CoE)
+**Managing Director, Infrastructure Optimization and Cloud Adoption Center of Excellence (CoE)** (GS-15)
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+The Centers of Excellence (CoE) are agile IT modernization teams designed to modernize federal agency infrastructure in a repeatable, scalable manner based on best practices. In this role, I lead a team of senior excerpts as we support agencies across the government in every stage of their digital modernization journey.
 
 - Developed a predicted model to support Westmark in custumer conversion from dealer loans.
 - Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
