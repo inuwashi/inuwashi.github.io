@@ -51,8 +51,8 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/adam-grandt-ht0/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://ht0.co"
-  resume_medium_url:            "https://github.com/adam-grandt-tts"
+  resume_website_url:           "https://github.com/adam-grandt-tts"
+  # resume_medium_url:            "https://github.com/adam-grandt-tts"
 resume_print_social_links:      true
 
 # Design settings
