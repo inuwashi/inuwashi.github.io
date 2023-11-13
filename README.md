@@ -15,7 +15,7 @@ An experienced technical leader and enterprise architect with an agile skill set
 Technology Transformation Services (TTS), Centers of Excellence (CoE)
 
 **Managing Director, Infrastructure Optimization and Cloud Adoption
- Center of Excellence (CoE)** (GS-15), 04/2019 - 10/2019
+ Center of Excellence (CoE)** (GS-15), 04/2019 - 10/2023
 
 The Centers of Excellence (CoE) are agile IT modernization teams designed to modernize federal agency infrastructure in a repeatable, scalable manner based on best practices. In this role, I lead a team of senior excerpts as we support agencies across the government in every stage of their digital modernization journey.
 
