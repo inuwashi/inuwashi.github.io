@@ -20,8 +20,11 @@ resume_contact_email:           "adam@ht0.co"
 resume_contact_telephone:       "646.867.1471"
 resume_contact_address:         "Washington DC, 20018"
 
-resume_header_contact_info:     "Washington DC, 20018 - 646.867.1471 - adam@ht0.co"
+resume_header_contact_info:     "Washington DC, 20018 &mdash; 646.867.1471 &mdash; adam@ht0.co"
 display_header_contact_info:    "true"
+
+resume_header_full_namqe:       "Amiad \"Adam\" Grandt-Nesher"
+
 
 resume_header_intro: "<p>An experienced technical leader and enterprise architect with an agile skill set and a proven track record of bringing about technological change to meet organizational objectives.</p>"
 
