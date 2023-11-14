@@ -33,11 +33,17 @@
 
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
+- company: Head of Architecture & Development
+  position: Beeks Financial Cloud LTD
+  duration: 01/2016 &mdash; 09/2018
+  summary: Beeks Financial Cloud is a UK-based low-latency infrastructure service provider for institutional capital markets. In this role, I created the Software Development and System Architecture Practice. Established the Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) offerings and designed the cloud automation systems.
+  bullets: 
+    - bullet: Worked with the CTO to establish organization-wide infrastructure standards and management policies.
+    - bullet: Implemented Enterprise Architect practices by designing and enacting system standardization across global business operations.
+    - bullet: Was a key driver of change in the evolution of Beaks from a traditional infrastructure provider to a modern Cloud Infrastructure as a service provider.
+    - bullet: Supervised a team of 8 developers and systems engineers to establish a robust automation system that efficiently manages thousands of virtual machines and bare-metal servers. Drove down operating costs by over $50,000 annually.
+    - bullet: Established an IaaS offering used by hundreds of clients and business partners, improving the availability, ease of access, and efficiency surrounding client infrastructure management.
+    - bullet: Shortened the sales and delivery cycle from weeks to minutes.
 
 # Communications Coordinator
 - company: Springfield Women & Children's Center
