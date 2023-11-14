@@ -1,9 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
+# ATARC
 - publication: Visionary Panel Impact of COVID on the Needs, Importance, and Challenges of Reskilling
   publisher: ATARC
-  date: 2012
-  # url: "https://atarc.org/event/reskilling/"
-  # description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  date: 2021
+  url: "https://atarc.org/"
+  # description: Lorem
+
+# GovExec
+- publication: How To Speed Digital Transformation Smartly
+  publisher: GovExec
+  date: 2020
+  url: "https://www.govexec.com/feature/how-to-speed-digital-transformation-smartly/"
+  # description: Lorem
