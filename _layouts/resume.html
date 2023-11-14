@@ -103,25 +103,7 @@
       <!-- end Education -->
       {% endif %}
 
-      {% if site.resume_section_publications %}
-      <!-- begin Publications -->
-      <section class="content-section">
-        <header class="section-header">
-          <h2>Publications & Speaking Engagements</h2>
-        </header>
-
-        {% for publication in site.data.publications %}
-        <div class="resume-item" itemscope itemprop="alumniOf" itemtype="https://schema.org/PublicationEvent">
-          <h3 class="resume-item-details" itemprop="name">{% if publication.url %}<a href="{{ publication.url }}" target="_blank">{{ publication.publication }}</a>{% else %}{{ publication.publication }}{% endif %}</h3>
-          <h4 class="resume-item-copy group" itemprop="description">{{ publication.publisher }} &bull; {{ publication.date }}</h4>
-          <p class="resume-item-copy">{{ publication.description }}</p>
-        </div>
-        {% endfor %}
-      </section>
-      <!-- end Publications -->
-      {% endif %}
-
-
+      
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
       <section class="content-section">
@@ -203,6 +185,24 @@
 
       </section>
       <!-- end Associations -->
+      {% endif %}
+
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Publications & Speaking Engagements</h2>
+        </header>
+
+        {% for publication in site.data.publications %}
+        <div class="resume-item" itemscope itemprop="alumniOf" itemtype="https://schema.org/PublicationEvent">
+          <h3 class="resume-item-details" itemprop="name">{% if publication.url %}<a href="{{ publication.url }}" target="_blank">{{ publication.publication }}</a>{% else %}{{ publication.publication }}{% endif %}</h3>
+          <h4 class="resume-item-copy group" itemprop="description">{{ publication.publisher }} &bull; {{ publication.date }}</h4>
+          <p class="resume-item-copy">{{ publication.description }}</p>
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Publications -->
       {% endif %}
 
       {% if site.resume_section_interests %}
