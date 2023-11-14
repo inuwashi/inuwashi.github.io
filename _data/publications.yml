@@ -1,16 +1,69 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# ATARC
-- publication: Visionary Panel Impact of COVID on the Needs, Importance, and Challenges of Reskilling
+
+
+# NextGov CyberSmart 2021
+- publication: Unique Challenges for Public Sector Cloud
+  publisher: NextGov - Cyber Smart
+  date: 2021
+  url: "https://events.nextgov.com/cybersmart-summit-2021/agenda/"
+  # description: Lorem
+
+# ACT-IAC 2021: Presidential Election Project
+- publication: Agenda 2021 - Presidential Election Project
+  publisher: ACT-IAC
+  date: 2021
+  url: "https://www.actiac.org/agenda-2021-presidential-election-project?utm_source=Informz&utm_medium=Email&utm_campaign=ACT-IAC%20Blast%20Email&_zs=vW2Gb&_zl=IhiH2"
+  # description: Lorem
+
+# ATARC COVID
+- publication: Visionary Panel Impact of COVID on the Needs,</br>Importance, and Challenges of Reskilling
   publisher: ATARC
   date: 2021
   url: "https://atarc.org/"
   # description: Lorem
 
-# GovExec
+# Logic: Modernizing Legacy Infrastructure
+- publication: Modernizing Legacy Infrastructure
+  publisher: Logic
+  date: 2020
+  url: "https://logicmag.io/care/adam-grandt-nesher-on-modernizing-infrastructure/"
+  # description: Lorem
+
+# FNN: Leaders In Innovation: Cloud Edition
+- publication: Leaders In Innovation - Cloud Edition
+  publisher: Federal News Network
+  date: 2020
+  url: "https://federalnewsnetwork.com/cme-event/executive-briefing-series-leaders-in-innovation-cloud-edition/"
+  # description: Lorem
+
+# GovExec Digital Transformation
 - publication: How To Speed Digital Transformation Smartly
   publisher: GovExec
   date: 2020
   url: "https://www.govexec.com/feature/how-to-speed-digital-transformation-smartly/"
   # description: Lorem
+
+# ATARC Emergency Response
+- publication: The Role of Emerging Technology in the Federal</br>Emergency Response
+  publisher: ATARC
+  date: 2020
+  url: "https://atarc.org/additional/emerging-tech-pandemic-2020/track-2/"
+  # description: Lorem
+
+# FedScoop: CISOS Leading Transformation
+- publication: CISOS Leading Transformation
+  publisher: FedScoop
+  date: 2020
+  url: "https://www.fedscoop.com/cisos-tech-adoption-pandemic/"
+  # description: Lorem
+
+
+# GovExec Digital Transformation
+- publication: Keys To Managing Multi Cloud Strategy
+  publisher: GovExec
+  date: 2020
+  url: "https://www.govexec.com/feature/keys-to-managing-your-multi-cloud-strategy/#%23%23"
+  # description: Lorem
+
