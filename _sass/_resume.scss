@@ -209,6 +209,12 @@
       margin: 0 0 .2rem;
     }
   }
+
+  .executive-summary{
+    line-height: 1.125rem;
+
+  }
+
   .section-header {
     @include section_border_thin;
     margin-bottom: 1rem;
