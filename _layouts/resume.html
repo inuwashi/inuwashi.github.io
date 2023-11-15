@@ -50,6 +50,28 @@
 
       </header>
 
+      {% if site.resume_section_highlights %}
+      <!-- begin Highlights -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Career Highlights</h2>
+        </header>
+
+        <div class="resume-item" >
+          <ul>
+            {% for highlight in site.data.highlights %}
+              <li>{{ highlight }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Highlights -->
+      {% endif %}
+
+
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
       <section class="content-section">
