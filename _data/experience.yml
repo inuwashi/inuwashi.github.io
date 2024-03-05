@@ -1,19 +1,27 @@
 # Jobs
 
 # CoE Exec
-# - company: Acting Executive Director (GS15)
-#   position: Centers of Excellence (CoE)</br>Technology Transformation Services (TTS)</br>General Services Administration (GSA)
-#   duration: 10/2023 &mdash; Present
-#   summary: The Centers of Excellence (CoE) are agile IT modernization teams designed to modernize federal agency infrastructure in a repeatable, scalable manner based on best practices. In this role, I lead a team of senior excerpts as we support agencies across the government in every stage of their digital modernization journey
-#   bullets: 
-#     - bullet: 
+- company: Executive Director (Acting) (GS15)
+  position: Centers of Excellence (CoE)</br>Technology Transformation Services (TTS)</br>General Services Administration (GSA)
+  duration: 10/2023 &mdash; Present
+  summary: The Centers of Excellence (CoE) are agile IT modernization teams designed to modernize federal agency infrastructure in a repeatable, scalable manner based on best practices. In this role, I lead a team of 29 senior federal excerpts and an industry support staff of over 130 technical specialists as we support agencies across the government in every stage of their enterprise-wide digital modernization journey.
+  bullets: 
+    - bullet: Oversaw a program with over 35 Million dollars of revenue in FY23, maintaining 22 ongoing engagements with 13 federal agencies. 
+    - bullet: Initiated the creation of an organization-wide risk and control management process pursuant to GAO guidelines.
+    - bullet: Cultivated a delivery methodology and quality control processes to increase our impact on the federal government and the American public.
+    - bullet: I drove the delivery of Housing and Urban Development (HUD) Central, a first-of-its-kind customer-centered $16M enterprise contact center modernization, to its successful conclusion. This process converted HUD's fragmented customer experience into one point of contact, directly impacting over 9 million public citizens who use HUD services.
+    - bullet: Developed the multi-center CoE partnership with the Centers for Disease Control (CDC) to drive the execution of a Data Modernization Initiative to allow public access to agency data, led agency migration onto the Cloud, and implemented an enterprise-wide DevSecOps strategy.
+    - bullet: Proactively partnered inside General Services Administration with the Information Technology Category and Assisted Acquisition Services to deliver Cloud re-engineering solutions for CDC and Enterprize IT Operation and Modernization solutions to USDA, totaling over 800 million dollars
+    - bullet: Supervised, developed, and mentored CoE team members and partner agency staff to realize talent's full potential using service-based leadership. 
+    - bullet: Matured budgeting process to include supervisor input on critical decision-making points, yielding more buy-in and higher ownership and morale across the CoE organization.  
+    - bullet: Met weekly with supervisors and leaders and encouraged inclusion and discussion from all supervisors to ensure best decision-making. 
 
 
 # Infrastructure Optimization and Cloud Adoption
 - company: Managing Director (GS-15)
   position: Infrastructure Optimization and Cloud Adoption</br>Center of Excellence (CoE)</br>Technology Transformation Services (TTS)</br>General Services Administration (GSA)
   duration: 04/2019 &mdash; 10/2023
-  summary: The Centers of Excellence (CoE) are agile IT modernization teams deployed to assist federal agencies in advancing their digital transformation journey in a repeatable, scalable manner. In this role, I led a team of senior experts as we supported federal, state, and local agencies in various enterprise-wide customer-experience-guided efforts.
+  summary: In this role, I managed a small team of senior enterprise technology experts as we guided over 20 federal agencies through various technical and organizational change efforts. Our work furthered the digital delivery capabilities of our partner agencies and allowed them to better serve the American public as a whole.
   bullets: 
     - bullet: Supervise a team of 9 senior leaders, each overseeing their own team of technical experts and two contractor teams of 8 and 16 members, respectively, implementing multiple IT Modernization programs to meet partner agencies' mission objectives
     - bullet: Serve as Contracting Officer Representative (COR) or Technical Advisor for nine acquisition efforts totaling more than $175 Million, including the mainframe currently supporting 7.5 million federal employees
