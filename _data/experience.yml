@@ -71,7 +71,7 @@
     - bullet: Established the use of industry standards and best practices throughout all development areas
     - bullet: Managed a team of over 60 developers and system administrators across four countries
     - bullet: Supervised the technical leadership team
-    - bullet: Worked with the CEO and CIO to establish organizational policy
+    # - bullet: Worked with the CEO and CIO to establish organizational policy
     - bullet: Managed the technical aspects of mergers and acquisitions efforts and integrated new teams and technologies into the organization
     - bullet: Designed and Implemented an Information Security Policy to meet the requirements of the US Financial Industry Regulatory Authority (FINRA), UK Financial Conduct Authority (FCA), British Virgin Island Financial Services Commission (FSC), and the European Union European System of Financial Supervision (ESFS)
     - bullet: Led the infrastructure architecture design and optimization team, overseeing a multi-year technical strategy
@@ -99,7 +99,7 @@
   duration: 09/1999 &mdash; 06/2003
   summary: Guided the daily operations of all aspects of IT for a 12-person team that served 600 users. Implemented innovative strategy that governed different aspects of IT, including desktop support, software development, and quality assurance.
   bullets: 
-    - bullet: Supervised a team of 12 system administrators and engineers
+    # - bullet: Supervised a team of 12 system administrators and engineers
     - bullet: Acted as primary technical advisor to the Commander of the Manpower Directorate
     - bullet: Designed the Manpower Directorate IT Infrastructure modernization strategy
     - bullet: Drafted and released mission-critical systems that were deployed across the entire country. Authored new procedures that strictly enforced the new standards
