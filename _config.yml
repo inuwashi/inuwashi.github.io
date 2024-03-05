@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Amiad (Adam) Grandt-Nesher"
+resume_name:                    "Adam Grandt"
 resume_title:                   "Enterprise Technology Leader"
 
 # used for the contact button in _layouts/resume.html
