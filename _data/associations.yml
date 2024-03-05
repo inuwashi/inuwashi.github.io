@@ -10,7 +10,7 @@
     - bullet: Architected and managed a secure Azure and Office 365 environment to facilitate case management, open-source intelligence investigation, and resource allocation management
     - bullet: Developed and implemented multiple systems to enable the organization's investigative capabilities and mission-specific needs
     - bullet: Continually support the organization's leadership as we evolve our offering to protect our clients from the ever-changing landscape and the growing availability of malware, spyware, and electronic stalking hardware
-    - bullet: Cooperated with other organizations to support the Coalition Against Stalkware in its early months
+    # - bullet: Cooperated with other organizations to support the Coalition Against Stalkware in its early months
 
 - organization: HEAL Trafficking
   role: Lead Media and Technology Committee
