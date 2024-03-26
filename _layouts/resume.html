@@ -86,7 +86,8 @@
           <p class="resume-item-copy">{{ job.summary }}</p>
           <ul class="resume-item-list">
             {% for bullet in job.bullets %}
-            <li>{{ bullet.bullet }}</li>
+            <li>
+              {% for text in bullet.bullet %}{{ text.text }} {% endfor %}
             {% endfor %}
           </ul>
         </div><!-- end of resume-item -->
