@@ -4,6 +4,10 @@
 - company: Executive Director (Acting) (GS15)
   position: Centers of Excellence (CoE)</br>Technology Transformation Services (TTS)</br>General Services Administration (GSA)
   duration: 10/2023 &mdash; Present
+  show:
+    - base
+    - ses
+    - cyber
   summary: The Centers of Excellence (CoE) are agile IT modernization teams designed to modernize federal agency infrastructure in a repeatable, scalable manner based on best practices. In this role, I lead a team of 29 senior federal excerpts and an industry support staff of over 130 technical specialists as we support agencies across the government in every stage of their enterprise-wide digital modernization journey.
   bullets:
     - bullet:
@@ -60,7 +64,9 @@
   summary: In this role, I managed a small team of senior enterprise technology experts as we guided over 20 federal agencies through various technical and organizational change efforts. Our work furthered the digital delivery capabilities of our partner agencies and allowed them to better serve the American public as a whole.
   bullets:
     - bullet:
-      - text: Supervise a team of 9 senior leaders, each overseeing their own team of technical experts and two contractor teams of 8 and 16 members, respectively, implementing multiple IT Modernization programs to meet partner agencies' mission objectives
+      - text: Supervise a team of 9 senior leaders, each overseeing their own team of technical experts and two contractor teams of 8 and 16 members,
+      - text: respectively, implementing multiple IT Modernization programs to meet partner agencies' mission objectives
+      - ecq: 
     - bullet:
       - text: Serve as Contracting Officer Representative (COR) or Technical Advisor for nine acquisition efforts totaling more than $175 Million, including the mainframe currently supporting 7.5 million federal employees
     - bullet:

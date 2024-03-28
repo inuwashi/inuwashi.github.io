@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 
+  {% assign layout_name = "base" %}
   {% include head.html %}
 
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
@@ -80,19 +81,30 @@
         </header>
 
         {% for job in site.data.experience %}
-        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
-          <p class="resume-item-copy">{{ job.summary }}</p>
-          <ul class="resume-item-list">
-            {% for bullet in job.bullets %}
-            <li>
-              {% for text in bullet.bullet %}{{ text.text }} {% endfor %}
-            {% endfor %}
-          </ul>
-        </div><!-- end of resume-item -->
-        {% endfor %}
 
+          {% assign show = false %}
+          {% for layout in job.show %}
+            {% if  layout == "base" %}
+              {% assign show = true %}
+            {% endif %}
+          {% endfor %}
+
+          {% if show == true %}
+          <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+            <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+            <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+            <p class="resume-item-copy">{{ job.summary }}</p>
+            <ul class="resume-item-list">
+              {% for bullet in job.bullets %}
+              <li>
+                {% for text in bullet.bullet %}{{ text.text }}{% unless forloop.last %} {% endunless %}{% endfor %}
+              </li>
+              {% endfor %}
+            </ul>
+          </div><!-- end of resume-item -->
+          {% endif %}  
+
+        {% endfor %}
       </section>
       <!-- end Experience -->
       {% endif %}
