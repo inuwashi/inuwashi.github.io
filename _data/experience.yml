@@ -11,6 +11,8 @@
   summary: The Centers of Excellence (CoE) are agile IT modernization teams designed to modernize federal agency infrastructure in a repeatable, scalable manner based on best practices. In this role, I lead a team of 29 senior federal excerpts and an industry support staff of over 130 technical specialists as we support agencies across the government in every stage of their enterprise-wide digital modernization journey.
   bullets:
     - bullet:
+      - hide:
+        - all
       - text: Oversaw a program with over 35 Million dollars of revenue in FY23,
       - text: maintaining 22 ongoing engagements with 13 federal agencies.
       - ecq: Leading Change - Vision
@@ -61,6 +63,8 @@
 - company: Managing Director (GS-15)
   position: Infrastructure Optimization and Cloud Adoption</br>Center of Excellence (CoE)</br>Technology Transformation Services (TTS)</br>General Services Administration (GSA)
   duration: 04/2019 &mdash; 10/2023
+  show:
+    - all
   summary: In this role, I managed a small team of senior enterprise technology experts as we guided over 20 federal agencies through various technical and organizational change efforts. Our work furthered the digital delivery capabilities of our partner agencies and allowed them to better serve the American public as a whole.
   bullets:
     - bullet:
@@ -109,6 +113,8 @@
 - company: Head of Architecture & Development
   position: Beeks Financial Cloud LTD
   duration: 01/2016 &mdash; 09/2018
+  show:
+    - all
   summary: Beeks Financial Cloud is a UK-based low-latency infrastructure service provider for institutional capital markets. In this role, I created the Software Development and System Architecture Practice. Established the Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) offerings and designed the cloud automation systems.
   bullets:
     - bullet:
@@ -128,6 +134,8 @@
 - company: Chief Technology Officer
   position: Visual Trading Systems Inc
   duration: 01/2012 &mdash; 01/2016
+  show:
+    - all
   summary: Visual Trading Systems was a financial technology provider offering clearing services and low-latency trade routing solutions to the foreign exchange market. In this role, I Led cross-functional development teams that utilized various stacks to accomplish complex, interrelated projects and the day-to-day technical operations of multiple blockages
   bullets:
     - bullet:
@@ -159,6 +167,8 @@
 - company: Director of Technology
   position: GallantVPS Inc
   duration: 01/2008 &mdash; 12/2012
+  show:
+    - all
   summary: Guided the daily operations of all aspects of IT for a 12-person team that served 600 users. Implemented innovative strategy that governed different aspects of IT, including desktop support, software development, and quality assurance.
   bullets:
     - bullet:
@@ -176,6 +186,8 @@
 - company: Commander of IT Section
   position: NonCom Major (equivalent to NATO OF-3)</br>Manpower Directorate</br>Israeli Defense Forces
   duration: 09/1999 &mdash; 06/2003
+  show:
+    - all
   summary: Guided the daily operations of all aspects of IT for a 12-person team that served 600 users. Implemented innovative strategy that governed different aspects of IT, including desktop support, software development, and quality assurance.
   bullets:
     # - bullet: Supervised a team of 12 system administrators and engineers

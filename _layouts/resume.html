@@ -84,7 +84,7 @@
 
           {% assign show = false %}
           {% for layout in job.show %}
-            {% if  layout == "base" %}
+            {% if layout == layout_name or layout == "all" %}
               {% assign show = true %}
             {% endif %}
           {% endfor %}
