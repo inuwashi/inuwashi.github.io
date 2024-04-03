@@ -39,7 +39,7 @@
         </div>
 
         <div class="executive-summary" itemprop="description">
-          {{ site.resume_header_intro }}
+          <p>An experienced technical leader and enterprise architect with an agile skill set and a proven track record of bringing about technological change to meet organizational objectives.</p>
         </div>
 
         {% if site.resume_looking_for_work == 'yes' %}
@@ -96,9 +96,20 @@
             <p class="resume-item-copy">{{ job.summary }}</p>
             <ul class="resume-item-list">
               {% for bullet in job.bullets %}
+
+              {% assign show_bullet = true %}
+              {% for layout in bullet.bullet %}
+                {% if  layout.hide == layout_name or layout.hide == "all" %}
+                  {% assign show_bullet = false %}
+                {% endif %}
+              {% endfor %}
+  
+              {% if show_bullet == true %}
               <li>
                 {% for text in bullet.bullet %}{{ text.text }}{% unless forloop.last %} {% endunless %}{% endfor %}
               </li>
+              {% endif %}
+
               {% endfor %}
             </ul>
           </div><!-- end of resume-item -->

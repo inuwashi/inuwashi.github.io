@@ -5,14 +5,12 @@
   position: Centers of Excellence (CoE)</br>Technology Transformation Services (TTS)</br>General Services Administration (GSA)
   duration: 10/2023 &mdash; Present
   show:
-    - base
-    - ses
-    - cyber
+    - all
   summary: The Centers of Excellence (CoE) are agile IT modernization teams designed to modernize federal agency infrastructure in a repeatable, scalable manner based on best practices. In this role, I lead a team of 29 senior federal excerpts and an industry support staff of over 130 technical specialists as we support agencies across the government in every stage of their enterprise-wide digital modernization journey.
   bullets:
     - bullet:
       - hide:
-        - all
+        - base
       - text: "Oversaw a program with over 35 Million dollars of revenue in FY23, "
       - text: maintaining 22 ongoing engagements with 13 federal agencies.
       - ecq: Leading Change - Vision
