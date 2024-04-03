@@ -55,6 +55,11 @@
       - text: Met weekly with supervisors and leaders and encouraged inclusion and discussion from all supervisors to ensure best decision-making.
       - ecq: Leading People - Team Building
       - ecq: Business Acumen - Human Capital Management
+    - bullet: 
+      - text: Established a partnership with Cloud.gov to offer CoE security and compliance consulting services to agencies across the federal
+      - text: government and standardize the Authorization To Operate approach for Cloud.gov pages.
+      - ecq: Results Driven - Technical Credibility
+      - ecq: Building Coalitions - Partnering
 
 
 # Infrastructure Optimization and Cloud Adoption
@@ -85,7 +90,7 @@
     - bullet:
       - text: Led a data analytics and agriculture science research effort with USDA's Farm Service Agency to identify and qualify producers for American Rescue Plan Act Benefits totaling up to $550 million
     - bullet:
-      - text: At the Joint AI Center (JAIC) of the DoD, my team and I Implemented artificial intelligence & machine learning (AI/ML) DevSecOps pipeline offering Machine learning models processing and analysis as a Service to the DoD community
+      - text: At the Joint AI Center (JAIC) of the DoD, my team and I implemented an Artificial Intelligence and Machine Learning (AI/ML) DevSecOps pipeline offering Machine learning models processing and analysis as a Service to the DoD community, using a hardened contenatization to ensure compliance with DoD security requirements.
 
 # Chief of Staff
 # - company: Chief of Staff (GS-15)
@@ -118,7 +123,7 @@
     - bullet:
       - text: Worked with the CTO to establish organization-wide infrastructure standards and management policies
     - bullet:
-      - text: Implemented Enterprise Architect practices by designing and enacting system standardization across global business operations
+      - text: Implemented Enterprise Architecture practices by designing and enacting system standardization and security standarts requirements across global business operations
     - bullet:
       - text: Was a key driver of change in the evolution of Beaks from a traditional infrastructure provider to a modern Cloud Infrastructure as a service provider
     - bullet:
@@ -137,7 +142,7 @@
   summary: Visual Trading Systems was a financial technology provider offering clearing services and low-latency trade routing solutions to the foreign exchange market. In this role, I Led cross-functional development teams that utilized various stacks to accomplish complex, interrelated projects and the day-to-day technical operations of multiple blockages
   bullets:
     - bullet:
-      - text: Established the use of industry standards and best practices throughout all development areas
+      - text: Established the use of modern developemmnt, securty, and oprations best practices throughout all development areas
     - bullet:
       - text: Managed a team of over 60 developers and system administrators across four countries
     - bullet:
@@ -159,7 +164,7 @@
     - bullet:
       - text: Created a non-discrimination hiring policy that was focused throughout the organization, allowing us to acquire a robust and diverse team
     - bullet:
-      - text: Served as technical subject matter expert and architectural guide across the department and organization. Authored best practices and new, innovative ways to solve complex problems
+      - text: Served as technical subject matter expert, cybersecurity advisor, risk manager and architectural guide across the department and organization. Authored best practices and new, innovative ways to solve complex problems
 
 # Gallant VPS
 - company: Director of Technology

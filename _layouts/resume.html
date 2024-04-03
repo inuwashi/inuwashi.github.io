@@ -106,7 +106,7 @@
   
               {% if show_bullet == true %}
               <li>
-                {% for text in bullet.bullet %}{{ text.text }}{% unless forloop.last %} {% endunless %}{% endfor %}
+                {% for text in bullet.bullet %}{{ text.text }} {% endfor %}
               </li>
               {% endif %}
 
