@@ -94,7 +94,7 @@
           <ul class="resume-item-list">
             {% for bullet in job.bullets %}
             <li>
-              {% for text in bullet.bullet %}{{ text.text }}{% unless forloop.last %} {% endunless %}{% endfor %}
+              {% for text in bullet.bullet %}{{ text.text }} {% endfor %}
               <br/><span class="ecqs">{% for ecq in bullet.bullet %}
                   {% if ecq.ecq  %}
                     {{ ecq.ecq }}{% unless forloop.last %} ʃ {% endunless %}
