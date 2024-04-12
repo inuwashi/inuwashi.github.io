@@ -20,15 +20,15 @@
       - text: Initiated the creation of an organization-wide risk and control management process pursuant to GAO guidelines.
       - ecq: Leading Change - External Awareness
       - ecq: Results Driven - Accountability
-    - bullet:
-      - text: Cultivated a delivery methodology and quality control processes to increase our impact on the federal government and the American public.
-      - ecq: Results Driven - Problem Solving
-    - bullet:
-      - text: I drove the delivery of Housing and Urban Development (HUD) Central, a first-of-its-kind customer-centered $16M enterprise contact
-      - text: center modernization, to its successful conclusion. This process converted HUD's fragmented customer experience into one point of
-      - text: contact, directly impacting over 9 million public citizens who use HUD services.
-      - ecq: Leading Change - Creativity and Innovation
-      - ecq: Results Driven - Customer Service
+    # - bullet:
+    #   - text: Cultivated a delivery methodology and quality control processes to increase our impact on the federal government and the American public.
+    #   - ecq: Results Driven - Problem Solving
+    # - bullet:
+    #   - text: I drove the delivery of Housing and Urban Development (HUD) Central, a first-of-its-kind customer-centered $16M enterprise contact
+    #   - text: center modernization, to its successful conclusion. This process converted HUD's fragmented customer experience into one point of
+    #   - text: contact, directly impacting over 9 million public citizens who use HUD services.
+    #   - ecq: Leading Change - Creativity and Innovation
+    #   - ecq: Results Driven - Customer Service
     - bullet:
       - text: Developed the multi-center CoE partnership with the Centers for Disease Control (CDC) to drive the execution of a Data Modernization
       - text: Initiative to allow public access to agency data, led agency migration onto the Cloud, and implemented an enterprise-wide DevSecOps strategy.
@@ -88,10 +88,10 @@
       - text: Support business development efforts that resulted in engagements totaling over $40 Million in revenue
       - ecq: Leading Change - External Awareness
       - ecq: Results Driven - Entrepreneurship
-    - bullet:
-      - text: Serve as a technical subject matter expert on customer engagements, leading the adoption of new technological practices and implementing organizational change
-      - text: management methodologies to support enterprise-wide adoption at seven partner agencies
-      - ecq: Results Driven - Customer Service, Problem Solving, Technical Credibility
+    # - bullet:
+    #   - text: Serve as a technical subject matter expert on customer engagements, leading the adoption of new technological practices and implementing organizational change
+    #   - text: management methodologies to support enterprise-wide adoption at seven partner agencies
+    #   - ecq: Results Driven - Customer Service, Problem Solving, Technical Credibility
     - bullet:
       - text: Led an agile engagement to support the implementation of the American Rescue Plan Act Farm Loan Forgiveness Program at USDA, enabling the distribution of three 
       - text: Billion dollars to disadvantaged American farmers
@@ -137,20 +137,25 @@
   duration: 01/2016 &mdash; 09/2018
   show:
     - all
-  summary: Beeks Financial Cloud is a UK-based low-latency infrastructure service provider for institutional capital markets. In this role, I created the Software Development and System Architecture Practice. Established the Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) offerings and designed the cloud automation systems.
+  summary: Beeks Financial Cloud is a UK-based low-latency infrastructure service provider for institutional capital markets. In this role, I established the Software Development and System Architecture Practice. Established the Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) offerings and designed the cloud automation systems.
   bullets:
     - bullet:
-      - text: Worked with the CTO to establish organization-wide infrastructure standards and management policies
-    - bullet:
-      - text: Implemented Enterprise Architecture practices by designing and enacting system standardization and security standarts requirements across global business operations
+      - text: Worked with the leadership team to establish Enterprise Architecture and CyberSecurity practices by designing and enacting system standardization across global business operations
+      - text: and ensuring cooperation from a distributed cross-functional infrastructure, security, business, and network operation teams.
+      - ecq: Leading Change - Vision
+      - ecq: Building Coalitions - Influencing/Negotiating
     - bullet:
       - text: Was a key driver of change in the evolution of Beaks from a traditional infrastructure provider to a modern Cloud Infrastructure as a service provider
+      - ecq: Leading Change - Creativity and Innovation, Strategic Thinking
     - bullet:
-      - text: Supervised a team of 8 developers and systems engineers to establish a robust automation system that efficiently manages thousands of virtual machines and bare-metal servers. Drove down operating costs by over $50,000 annually
+      - text: Created, trained, and Supervised a team of 8 developers and systems engineers to establish a robust automation system that efficiently manages thousands
+      - text: of virtual machines and bare-metal servers. Drove down operating costs by over $50,000 annually
+      - ecq: Leading People - Developing Others, Team Building
+      - ecq: Business Acumen - Financial Management
     - bullet:
-      - text: Established an IaaS offering used by hundreds of clients and business partners, improving the availability, ease of access, and efficiency surrounding client infrastructure management
-    - bullet:
-      - text: Shortened the sales and delivery cycle from weeks to minutes
+      - text: Established an IaaS offering used by hundreds of clients and business partners, improving the availability, ease of access, and efficiency surrounding
+      - text: client infrastructure management and shortened the sales and delivery cycle from weeks to minutes
+      - ecq: Business Acumen - Financial Management, Technology Management
 
 # VT CTO
 - company: Chief Technology Officer
@@ -162,28 +167,41 @@
   bullets:
     - bullet:
       - text: Established the use of modern developemmnt, securty, and oprations best practices throughout all development areas
+      - ecq: Leading Change - Strategic Thinking
     - bullet:
-      - text: Managed a team of over 60 developers and system administrators across four countries
+      - text: Managed and guided the professional development of a team of over 60 developers and system administrators across four countries
+      - ecq:  Leading People - Conflict Management, Developing Others, Team Building
     - bullet:
-      - text: Supervised the technical leadership team
-    - bullet:
-      - text: Worked with the CEO and CIO to establish organizational policy
+      - text: Worked with the CEO and CIO to establish and implement organizational policy
+      - ecq:  Building Coalitions - Political Savvy
     - bullet:
       - text: Managed the technical aspects of mergers and acquisitions efforts and integrated new teams and technologies into the organization
     - bullet:
-      - text: Designed and Implemented an Information Security Policy to meet the requirements of the US Financial Industry Regulatory Authority (FINRA), UK Financial Conduct Authority (FCA), British Virgin Island Financial Services Commission (FSC), and the European Union European System of Financial Supervision (ESFS)
+      - text: Designed and Implemented an Information Security Policy to meet the requirements of the US Financial Industry Regulatory Authority
+      - text: (FINRA), UK Financial Conduct Authority (FCA), British Virgin Island Financial Services Commission (FSC), and the European Union
+      - text: European System of Financial Supervision (ESFS)
+      - ecq: Leading Change - External Awareness
+      - ecq: Building Coalitions - Political Savvy
     - bullet:
       - text: Led the infrastructure architecture design and optimization team, overseeing a multi-year technical strategy
+      - ecq: Business Acumen - Technology Management
     - bullet:
       - text: Established the Cloud Adoption program, setting and meeting multi-year, multi-cloud implementation objectives
+      - ecq: Leading Change - Flexibility
     - bullet:
       - text: Drastically improved a struggling software product and transformed it into a functional, profitable solution valued at nearly $2M
+      - ecq: Leading Change - Creativity and Innovation
     - bullet:
       - text: Pioneered the creation of a trading platform adopted by nearly a dozen financial institutions to manage over $15M in combined assets
+      - ecq: Results Driven - Entrepreneurship
     - bullet:
       - text: Created a non-discrimination hiring policy that was focused throughout the organization, allowing us to acquire a robust and diverse team
+      - ecq: Leading People - Leveraging Diversity
     - bullet:
-      - text: Served as technical subject matter expert, cybersecurity advisor, risk manager and architectural guide across the department and organization. Authored best practices and new, innovative ways to solve complex problems
+      - text: Served as technical subject matter expert, cybersecurity advisor, risk manager, and architectural guide across the department and organization.
+      - text: Authored best practices and new, innovative ways to solve complex problems
+      - ecq: Results Driven - Problem Solving, Technical Credibility
+
 
 # Gallant VPS
 - company: Director of Technology
@@ -195,30 +213,42 @@
   bullets:
     - bullet:
       - text: Supervised a cross-functional team of developers, systems administrators, and cloud architects
+      - ecq: Leading People - Team Building
+      - ecq: Results Driven - Technical Credibility
     - bullet:
-      - text: Architected the infrastructure behind a solution used by up to 14,000 concurrent instances of the trading platform, utilizing Agile methodologies, Python, PostgreSQL, WINE, HTML, and Javascript
+      - text: Architected the infrastructure behind a solution used by up to 14,000 concurrent instances of the trading platform, utilizing Agile
+      - text: methodologies, Python, PostgreSQL, WINE, HTML, and Javascript
+      - ecq: Results Driven - Technical Credibility
     - bullet:
-      - text: I Designed the ongoing infrastructure optimization strategy and implemented an innovative cloud adoption plan in early 2000
+      - text: Designed the ongoing infrastructure optimization strategy and implemented an innovative cloud adoption plan in early 2000
+      - ecq: Leading Change - Creativity and Innovation, Strategic Thinking
     - bullet:
       - text: Designed and Implemented an Information Security Policy to meet the requirement of the financial regulatory bodies of the US Financial Industry Regulatory Authority (FINRA)
+      - ecq: Leading Change - External Awareness
+      - ecq: Building Coalitions - Political Savvy
     - bullet:
       - text: Sourced a buyer that planned to further grow the platform and organization, successfully selling the business for over $500k
+      - ecq: Building Coalitions - Influencing/Negotiating
+
 
 # IDF
 - company: Commander of IT Section
   position: NonCom Major (equivalent to NATO OF-3)</br>Manpower Directorate</br>Israeli Defense Forces
   duration: 09/1999 &mdash; 06/2003
   show:
-    - all
+    - none
   summary: Guided the daily operations of all aspects of IT for a 12-person team that served 600 users. Implemented innovative strategy that governed different aspects of IT, including desktop support, software development, and quality assurance.
   bullets:
     # - bullet: Supervised a team of 12 system administrators and engineers
     - bullet:
       - text: Acted as primary technical advisor to the Commander of the Manpower Directorate
+      - ecq: Results Driven - Problem Solving
     - bullet:
       - text: Designed the Manpower Directorate IT Infrastructure modernization strategy
-    - bullet:
-      - text: Drafted and released mission-critical systems that were deployed across the entire country. Authored new procedures that strictly enforced the new standards
+      - ecq: Leading Change - Strategic Thinking
+    # - bullet:
+    #   - text: Drafted and released mission-critical systems that were deployed across the entire country. Authored new procedures that strictly enforced the new standards
+    #   - ecq: 
     - bullet:
       - text: Oversaw the integration of a modern interface on top of the legacy HR datastore, allowing for increased efficiency and modernization in processing and managing HR workflows
     - bullet:
