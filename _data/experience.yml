@@ -9,8 +9,7 @@
   summary: The Centers of Excellence (CoE) are agile IT modernization teams designed to modernize federal agency infrastructure in a repeatable, scalable manner based on best practices. In this role, I lead a team of 29 senior federal excerpts and an industry support staff of over 130 technical specialists as we support agencies across the government in every stage of their enterprise-wide digital modernization journey.
   bullets:
     - bullet:
-      - hide:
-        - base
+      - hide: none
       - text: "Oversaw a program with over 35 Million dollars of revenue in FY23, "
       - text: maintaining 22 ongoing engagements with 13 federal agencies.
       - ecq: Leading Change - Vision
@@ -56,8 +55,8 @@
       - ecq: Leading People - Team Building
       - ecq: Business Acumen - Human Capital Management
     - bullet: 
-      - text: Established a partnership with Cloud.gov to offer CoE security and compliance consulting services to agencies across the federal
-      - text: government and standardize the Authorization To Operate approach for Cloud.gov pages.
+      - text: Established a partnership with Cloud.gov to offer impletaion of FedRAMP information security compliance frameworks consulting services
+      - text: to agencies across the federal government and standardize the Authorization To Use approach for Cloud.gov pages.
       - ecq: Results Driven - Technical Credibility
       - ecq: Building Coalitions - Partnering
 
@@ -106,9 +105,15 @@
     #   - text: Led a data analytics and agriculture science research effort with USDA's Farm Service Agency to identify and qualify producers for American Rescue Plan Act Benefits totaling up to $550 million
     - bullet:
       - text: At the Joint AI Center (JAIC) of the DoD, my team and I implemented an Artificial Intelligence and Machine Learning (AI/ML) DevSecOps pipeline offering Machine
-      - text: learning models processing and analysis as a Service to the DoD community, using a hardened contenatization to ensure compliance with DoD security requirements.
+      - text: learning models processing and analysis as a Service to the DoD community, using a hardened contenatization to ensure proper implemetation of DoD information security
+      - text: compliance IL4 and IL5 frameworks. 
       - ecq: Leading Change - Resilience
       - ecq: Building Coalitions - Political Savvy
+    - bullet:
+      - text: Supported the OPM Resource Management Team in establishing a software licensing inventory to manage waste, thus improving the agency FITARA score from C- to C+. 
+      - ecq: Building Coalitions - Political Savvy
+      - ecq: Leading Change - External Awareness
+
 
 
 # Chief of Staff
@@ -140,8 +145,10 @@
   summary: Beeks Financial Cloud is a UK-based low-latency infrastructure service provider for institutional capital markets. In this role, I established the Software Development and System Architecture Practice. Established the Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) offerings and designed the cloud automation systems.
   bullets:
     - bullet:
-      - text: Worked with the leadership team to establish Enterprise Architecture and CyberSecurity practices by designing and enacting system standardization across global business operations
-      - text: and ensuring cooperation from a distributed cross-functional infrastructure, security, business, and network operation teams.
+      - text: Worked with the leadership team to establish Enterprise Architecture and Cybersecurity practices by designing and enacting system standardization across
+      - text: global business operations and ensuring cooperation from a distributed cross-functional infrastructure, security, business, and network operation
+      - text: teams. Ensured that our hosting and service operation met the requirements of information security compliance frameworks ISO 27001 and our financial
+      - text: processing systems were PCI compliant.
       - ecq: Leading Change - Vision
       - ecq: Building Coalitions - Influencing/Negotiating
     - bullet:
@@ -177,13 +184,13 @@
     - bullet:
       - text: Managed the technical aspects of mergers and acquisitions efforts and integrated new teams and technologies into the organization
     - bullet:
-      - text: Designed and Implemented an Information Security Policy to meet the requirements of the US Financial Industry Regulatory Authority
-      - text: (FINRA), UK Financial Conduct Authority (FCA), British Virgin Island Financial Services Commission (FSC), and the European Union
-      - text: European System of Financial Supervision (ESFS)
+      - text: Designed and implemented an Information Security Policy to meet the requirements of the information security compliance frameworks of
+      - text: the US Financial Industry Regulatory Authority  (FINRA), UK Financial Conduct Authority (FCA), British Virgin Island Financial Services
+      - text: Commission (FSC), and the European Union European System of Financial Supervision (ESFS)
       - ecq: Leading Change - External Awareness
       - ecq: Building Coalitions - Political Savvy
     - bullet:
-      - text: Led the infrastructure architecture design and optimization team, overseeing a multi-year technical strategy
+      - text: Led the infrastructure architecture design and optimization team, overseeing a multi-year technical strategy and the implemtation of  information security design and architecture principles.
       - ecq: Business Acumen - Technology Management
     - bullet:
       - text: Established the Cloud Adoption program, setting and meeting multi-year, multi-cloud implementation objectives
@@ -209,7 +216,7 @@
   duration: 01/2008 &mdash; 12/2012
   show:
     - all
-  summary: Guided the daily operations of all aspects of IT for a 12-person team that served 600 users. Implemented innovative strategy that governed different aspects of IT, including desktop support, software development, and quality assurance.
+  summary: Founded and operated GallantVPS and grew the organization strategically by acquiring new clients, improving operations, and championing growth projects. 
   bullets:
     - bullet:
       - text: Supervised a cross-functional team of developers, systems administrators, and cloud architects
@@ -229,6 +236,10 @@
     - bullet:
       - text: Sourced a buyer that planned to further grow the platform and organization, successfully selling the business for over $500k
       - ecq: Building Coalitions - Influencing/Negotiating
+    - bullet:
+      - text: Sourced a buyer that planned to further grow the platform and organization, successfully selling the business for over $500k
+      - ecq: Building Coalitions - Influencing/Negotiating
+
 
 
 # IDF
