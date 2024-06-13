@@ -19,6 +19,12 @@
       - text: Initiated the creation of an organization-wide risk and control management process pursuant to GAO guidelines.
       - ecq: Leading Change - External Awareness
       - ecq: Results Driven - Accountability
+    - bullet:
+      - text: After coordinating with different stackholders, such as TTS senior leadership, technical experts, and service consumers from various federal 
+      - text: agencies, to establish business requirements, I oversaw the creation of the CoE FY24 strategic goals and supervised their implementation 
+      - text: through five organization-wide tactical initiatives.
+      - ecq: Building Coalitions - Partnering
+      - ecq: Leading Change - Strategic Thinking
     # - bullet:
     #   - text: Cultivated a delivery methodology and quality control processes to increase our impact on the federal government and the American public.
     #   - ecq: Results Driven - Problem Solving
@@ -44,6 +50,12 @@
       - text: service-based leadership.
       - ecq: Business Acumen - Human Capital Management
       - ecq: Leading People - Developing Others
+    - bullet: 
+      - text: Spearheaded an organization-wide initiative to create data-driven performance metrics using a standard set of Objectives and Key 
+      - text: Results (OKRs) for all Center of Excellence (CoE) projects with partner agencies. These metrics enabled us to measure our progress, demonstrate 
+      - text: our impact, and communicate the value to stakeholders throughout the federal government.
+      - ecq: Results Driven - Entrepreneurship
+      - ecq: Results Driven - Accountability
     - bullet:
       - text: Matured budgeting process to include supervisor input on critical decision-making points, yielding more buy-in and higher
       - text: ownership and morale across the CoE organization.
@@ -96,7 +108,6 @@
       - text: Billion dollars to disadvantaged American farmers
       - ecq: Leading Change - Strategic Thinking
       - ecq: Leading People - Leveraging Diversity
-    # - bullet: Regularly applied techniques of written and oral communication with a variety of audiences and stakeholders, including senior leadership, technical experts, and service consumers in multiple federal agencies, to articulate and explain technologies, programs, functions, and activities to gain buy-in to the program's strategic plan, modernization activities, meticulous attention to detail, project planning, and customer requirements
     - bullet:
       - text: Oversee software development projects in OPM, GAO, and other agencies from inception to production in Azure and AWS cloud environments, including developing
       - text: Authority to Operate (ATO) software security plan (SSP) documents and Control matrices
@@ -145,12 +156,14 @@
   summary: Beeks Financial Cloud is a UK-based low-latency infrastructure service provider for institutional capital markets. In this role, I established the Software Development and System Architecture Practice. Established the Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) offerings and designed the cloud automation systems.
   bullets:
     - bullet:
-      - text: Worked with the leadership team to establish Enterprise Architecture and Cybersecurity practices by designing and enacting system standardization across
-      - text: global business operations and ensuring cooperation from a distributed cross-functional infrastructure, security, business, and network operation
-      - text: teams. Ensured that our hosting and service operation met the requirements of information security compliance frameworks ISO 27001 and our financial
-      - text: processing systems were PCI compliant.
-      - ecq: Leading Change - Vision
+      - text: Established a relationship with the leadership, infrastructure, security, business development, and network operation teams at Beeks to 
+      - text: determine an Enterprise Architecture and Cybersecurity strategy focused on iterative, continuous system standardization and modernization 
+      - text: across global business operations.
       - ecq: Building Coalitions - Influencing/Negotiating
+      - ecq: Leading Change - Vision
+    # - bullet:
+    #   - text: Ensured that our hosting and service operation met the requirements of information security compliance frameworks ISO 27001 and our financial
+    #   - text: processing systems were PCI compliant.
     - bullet:
       - text: Was a key driver of change in the evolution of Beaks from a traditional infrastructure provider to a modern Cloud Infrastructure as a service provider
       - ecq: Leading Change - Creativity and Innovation, Strategic Thinking
@@ -190,7 +203,7 @@
       - ecq: Leading Change - External Awareness
       - ecq: Building Coalitions - Political Savvy
     - bullet:
-      - text: Led the infrastructure architecture design and optimization team, overseeing a multi-year technical strategy and the implemtation of  information security design and architecture principles.
+      - text: Led the infrastructure architecture design and optimization team, overseeing a multi-year technical strategy and the implemtation of information security design and architecture principles.
       - ecq: Business Acumen - Technology Management
     - bullet:
       - text: Established the Cloud Adoption program, setting and meeting multi-year, multi-cloud implementation objectives
