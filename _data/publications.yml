@@ -2,6 +2,12 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 
+# CDC Product Management Summit
+- publication: Future of Federal Digital Services
+  publisher: Federal News Network
+  date: 2024
+  url: "https://federalnewsnetwork.com/cloud-computing/2024/06/cloud-exchange-2024-gsas-adam-grandt-nesher-usdas-arianne-gallagher-welcher-on-future-of-federal-digital-services/"
+  # description: Lorem
 
 # CDC Product Management Summit
 - publication: Product Management Summit - What's Next for the Workforce

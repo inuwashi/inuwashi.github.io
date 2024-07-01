@@ -108,11 +108,11 @@
       - text: Billion dollars to disadvantaged American farmers
       - ecq: Leading Change - Strategic Thinking
       - ecq: Leading People - Leveraging Diversity
-    - bullet:
-      - text: Oversee software development projects in OPM, GAO, and other agencies from inception to production in Azure and AWS cloud environments, including developing
-      - text: Authority to Operate (ATO) software security plan (SSP) documents and Control matrices
-      - ecq: Results Driven - Accountability, Technical Credibility
     # - bullet:
+    #   - text: Oversee software development projects in OPM, GAO, and other agencies from inception to production in Azure and AWS cloud environments, including developing
+    #   - text: Authority to Operate (ATO) software security plan (SSP) documents and Control matrices
+    #   - ecq: Results Driven - Accountability, Technical Credibility
+    # # - bullet:
     #   - text: Led a data analytics and agriculture science research effort with USDA's Farm Service Agency to identify and qualify producers for American Rescue Plan Act Benefits totaling up to $550 million
     - bullet:
       - text: At the Joint AI Center (JAIC) of the DoD, my team and I implemented an Artificial Intelligence and Machine Learning (AI/ML) DevSecOps pipeline offering Machine
@@ -120,10 +120,10 @@
       - text: compliance IL4 and IL5 frameworks. 
       - ecq: Leading Change - Resilience
       - ecq: Building Coalitions - Political Savvy
-    - bullet:
-      - text: Supported the OPM Resource Management Team in establishing a software licensing inventory to manage waste, thus improving the agency FITARA score from C- to C+. 
-      - ecq: Building Coalitions - Political Savvy
-      - ecq: Leading Change - External Awareness
+    # - bullet:
+    #   - text: Supported the OPM Resource Management Team in establishing a software licensing inventory to manage waste, thus improving the agency FITARA score from C- to C+. 
+    #   - ecq: Building Coalitions - Political Savvy
+    #   - ecq: Leading Change - External Awareness
 
 
 
@@ -191,9 +191,9 @@
     - bullet:
       - text: Managed and guided the professional development of a team of over 60 developers and system administrators across four countries
       - ecq:  Leading People - Conflict Management, Developing Others, Team Building
-    - bullet:
-      - text: Worked with the CEO and CIO to establish and implement organizational policy
-      - ecq:  Building Coalitions - Political Savvy
+    # - bullet:
+    #   - text: Worked with the CEO and CIO to establish and implement organizational policy
+    #   - ecq:  Building Coalitions - Political Savvy
     - bullet:
       - text: Managed the technical aspects of mergers and acquisitions efforts and integrated new teams and technologies into the organization
     - bullet:
@@ -217,10 +217,10 @@
     - bullet:
       - text: Created a non-discrimination hiring policy that was focused throughout the organization, allowing us to acquire a robust and diverse team
       - ecq: Leading People - Leveraging Diversity
-    - bullet:
-      - text: Served as technical subject matter expert, cybersecurity advisor, risk manager, and architectural guide across the department and organization.
-      - text: Authored best practices and new, innovative ways to solve complex problems
-      - ecq: Results Driven - Problem Solving, Technical Credibility
+    # - bullet:
+    #   - text: Served as technical subject matter expert, cybersecurity advisor, risk manager, and architectural guide across the department and organization.
+    #   - text: Authored best practices and new, innovative ways to solve complex problems
+    #   - ecq: Results Driven - Problem Solving, Technical Credibility
 
 
 # Gallant VPS
