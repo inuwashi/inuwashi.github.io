@@ -6,12 +6,13 @@
   duration: 10/2023 &mdash; Present
   show:
     - all
-  summary: The Centers of Excellence (CoE) are agile IT modernization teams designed to modernize federal agency infrastructure in a repeatable, scalable manner based on best practices. In this role, I lead a team of 29 senior federal excerpts and an industry support staff of over 130 technical specialists as we support agencies across the government in every stage of their enterprise-wide digital modernization journey.
+  summary: The Centers of Excellence (CoE) are agile IT modernization teams designed to modernize federal agency infrastructure in a repeatable, scalable manner based on best practices. In this role, I lead a team of senior federal excerpts and an industry support staff of over 130 technical specialists as we support agencies across the government in every stage of their enterprise-wide digital modernization journey.
   bullets:
     - bullet:
       - hide: none
-      - text: "Oversaw a program with over 90 Million dollars of value in FY24, "
-      - text: maintaining 29 ongoing engagements with 13 federal agencies 
+      - text: Led a cross-functional team of 30 digital service delivery experts in the area of Artificial Intelligence, Data and Analytics, Cloud 
+      - text: Adoption, Contact Center, Customer Experience, Innovation Adoption and Acquistion in a program valued at over 90 Million dollars 
+      - text: in FY24, maintaining 29 ongoing engagements with 13 federal agencies 
       - ecq: Leading Change - Vision
       - ecq: Business Acumen - Financial Management
       - ecq: Building Coalitions - Partnering
@@ -34,25 +35,25 @@
     #   - text: contact, directly impacting over 9 million public citizens who use HUD services.
     #   - ecq: Leading Change - Creativity and Innovation
     #   - ecq: Results Driven - Customer Service
-    - bullet:
-      - text: Developed the multi-center CoE partnership with the Centers for Disease Control (CDC) to drive the execution of a Data Modernization
-      - text: Initiative to allow public access to agency data, led agency migration onto the Cloud, and implemented an enterprise-wide DevSecOps strategy.
-      - ecq: Business Acumen - Technology Management
-      - ecq: Building Coalitions - Partnering
+    # - bullet:
+    #   - text: Developed the multi-center CoE partnership with the Centers for Disease Control (CDC) to drive the execution of a Data Modernization
+    #   - text: Initiative to allow public access to agency data, led agency migration onto the Cloud, and implemented an enterprise-wide DevSecOps strategy.
+    #   - ecq: Business Acumen - Technology Management
+    #   - ecq: Building Coalitions - Partnering
     - bullet:
       - text: Proactively partnered inside General Services Administration with the Information Technology Category and Assisted Acquisition Services
       - text: to deliver Cloud re-engineering solutions for CDC and Enterprize IT Operation and Modernization solutions to USDA, totaling over
       - text: 800 million dollars
-      - ecq: Building Coalitions - Political Savvy
-      - ecq: Business Acumen - Financial Management
-    # - bullet:
-    #   - text: Supervised, developed, and mentored CoE team members and partner agency staff to realize talent's full potential using
-    #   - text: service-based leadership.
-    #   - ecq: Business Acumen - Human Capital Management
-    #   - ecq: Leading People - Developing Others
+      - ecq: Building Coalitions - Political Savvy, Partnering
+      - ecq: Business Acumen - Financial Management, Technology Management
+    - bullet:
+      - text: Supervised, developed, and mentored CoE team members and partner agency staff to realize talent's full potential by establishing 
+      - text: and measuring personal development goals.
+      - ecq: Business Acumen - Human Capital Management
+      - ecq: Leading People - Developing Others
     - bullet: 
-      - text: Spearheaded an organization-wide initiative to create data-driven performance metrics using a standard set of Objectives and Key 
-      - text: Results (OKRs) for all Center of Excellence (CoE) projects with partner agencies. These metrics enabled us to measure our progress, demonstrate 
+      - text: Spearheaded an organization-wide initiative to create data-driven performance metrics for all the Centers of Excellence (CoE) projects with 
+      - text: partner agencies. These metrics enabled us to measure our progress, demonstrate 
       - text: our impact, and communicate the value to stakeholders throughout the federal government.
       - ecq: Results Driven - Entrepreneurship
       - ecq: Results Driven - Accountability
@@ -63,14 +64,14 @@
     #   - ecq: Business Acumen - Financial Management
     #   - ecq: Results Driven - Problem Solving
     - bullet:
-      - text: Met weekly with supervisors and leaders and encouraged inclusion and discussion from all supervisors to ensure best decision-making.
+      - text: Guided supervisors and leaders to ensure standardized performance management and equitable recognition of impact and challenges across the organization. 
       - ecq: Leading People - Team Building
       - ecq: Business Acumen - Human Capital Management
-    # - bullet: 
-    #   - text: Established a partnership with Cloud.gov to offer impletaion of FedRAMP information security compliance frameworks consulting services
-    #   - text: to agencies across the federal government and standardize the Authorization To Use approach for Cloud.gov pages.
-    #   - ecq: Results Driven - Technical Credibility
-    #   - ecq: Building Coalitions - Partnering
+    - bullet: 
+      - text: Established a partnership with Cloud.gov to offer impletaion of FedRAMP information security compliance frameworks consulting services
+      - text: to agencies across the federal government and standardize the Authorization To Use approach for Cloud.gov pages.
+      - ecq: Results Driven - Technical Credibility
+      - ecq: Building Coalitions - Partnering
 
 
 # Infrastructure Optimization and Cloud Adoption
@@ -153,10 +154,10 @@
   duration: 01/2016 &mdash; 09/2018
   show:
     - all
-  summary: Beeks Financial Cloud is a UK-based low-latency infrastructure service provider for institutional capital markets. In this role, I established the Software Development and System Architecture Practice. Established the Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) offerings and designed the cloud automation systems.
+  summary: Beeks Financial Cloud is a UK-based low-latency infrastructure service provider for institutional capital markets. In this role, I created the Software Development and System Architecture Practice. Established the Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) offerings then designed and scaled the cloud automation systems that became the primary offering of the firm.
   bullets:
     - bullet:
-      - text: Established a relationship with the leadership, infrastructure, security, business development, and network operation teams at Beeks to 
+      - text: Partnered with the leadership, infrastructure, security, business development, and network operation teams at Beeks to 
       - text: determine an Enterprise Architecture and Cybersecurity strategy focused on iterative, continuous system standardization and modernization 
       - text: across global business operations.
       - ecq: Building Coalitions - Influencing/Negotiating
@@ -165,7 +166,8 @@
     #   - text: Ensured that our hosting and service operation met the requirements of information security compliance frameworks ISO 27001 and our financial
     #   - text: processing systems were PCI compliant.
     - bullet:
-      - text: Was a key driver of change in the evolution of Beaks from a traditional infrastructure provider to a modern Cloud Infrastructure as a service provider
+      - text: Lead the planning, management and direction of the Beeks Cloud offering, evolving Beaks from a traditional infrastructure provider 
+      - text: to a modern Cloud Infrastructure as a service provider
       - ecq: Leading Change - Creativity and Innovation, Strategic Thinking
     - bullet:
       - text: Created, trained, and Supervised a team of 8 developers and systems engineers to establish a robust automation system that efficiently manages thousands
