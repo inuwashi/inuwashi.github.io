@@ -60,10 +60,10 @@
     #   - ecq: Leading People - Team Building
     #   - ecq: Business Acumen - Financial Management
     #   - ecq: Results Driven - Problem Solving
-    - bullet:
-      - text: Guided supervisors and leaders to ensure standardized performance management and equitable recognition of impact and challenges across the organization. 
-      - ecq: Leading People - Team Building
-      - ecq: Business Acumen - Human Capital Management
+    # - bullet:
+    #   - text: Guided supervisors and leaders to ensure standardized performance management and equitable recognition of impact and challenges across the organization. 
+    #   - ecq: Leading People - Team Building
+    #   - ecq: Business Acumen - Human Capital Management
     # - bullet: 
     #   - text: Established a partnership with Cloud.gov to offer impletaion of FedRAMP information security compliance frameworks consulting services
     #   - text: to agencies across the federal government and standardize the Authorization To Use approach for Cloud.gov pages.
