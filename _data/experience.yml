@@ -21,9 +21,7 @@
       - ecq: Leading Change - External Awareness
       - ecq: Results Driven - Accountability
     - bullet:
-      - text: After coordinating with different stackholders, such as TTS senior leadership, technical experts, and service consumers from various federal 
-      - text: agencies, to establish business requirements, I oversaw the creation of the CoE FY24 strategic goals and supervised their implementation 
-      - text: through five organization-wide tactical initiatives.
+      - text: After coordinating with different stackholders, such as TTS senior leadership, technical experts, and service consumers from various federal agencies, to establish business requirements, I oversaw the creation of the CoE FY24 strategic goals and supervised their implementation through five organization-wide tactical initiatives.
       - ecq: Building Coalitions - Partnering
       - ecq: Leading Change - Strategic Thinking
     # - bullet:
@@ -41,8 +39,7 @@
     #   - ecq: Business Acumen - Technology Management
     #   - ecq: Building Coalitions - Partnering
     - bullet:
-      - text: Proactively partnered inside General Services Administration with the Information Technology Category and Assisted Acquisition Services
-      - text: to deliver Cloud re-engineering solutions for CDC and Enterprize IT Operation and Modernization solutions to USDA, totaling over
+      - text: Proactively partnered inside General Services Administration with the Information Technology Category and Assisted Acquisition Services to deliver Cloud re-engineering solutions for CDC and Enterprize IT Operation and Modernization solutions to USDA, totaling over
       - text: 800 million dollars
       - ecq: Building Coalitions - Political Savvy, Partnering
       - ecq: Business Acumen - Financial Management, Technology Management
@@ -185,7 +182,7 @@
   duration: 01/2012 &mdash; 01/2016
   show:
     - all
-  summary: Visual Trading Systems was a financial technology provider offering clearing services and low-latency trade routing solutions to the foreign exchange market. In this role, I Led cross-functional development teams that utilized various stacks to accomplish complex, interrelated projects and the day-to-day technical operations of multiple blockages
+  summary: Visual Trading Systems was a financial technology provider offering clearing services and low-latency trade routing solutions to the foreign exchange market. In this role, I Led cross-functional development teams that utilized various stacks to accomplish complex, interrelated projects and the day-to-day technical operations of multiple brokerages
   bullets:
     - bullet:
       - text: Established the use of modern developemmnt, securty, and oprations best practices throughout all development areas
