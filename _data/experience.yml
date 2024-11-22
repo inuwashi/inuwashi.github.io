@@ -39,8 +39,7 @@
     #   - ecq: Business Acumen - Technology Management
     #   - ecq: Building Coalitions - Partnering
     - bullet:
-      - text: Proactively partnered inside General Services Administration with the Information Technology Category and Assisted Acquisition Services to deliver Cloud re-engineering solutions for CDC and Enterprize IT Operation and Modernization solutions to USDA, totaling over
-      - text: 800 million dollars
+      - text: Proactively partnered inside General Services Administration with the Information Technology Category and Assisted Acquisition Services to deliver Cloud re-engineering solutions for CDC and Enterprize IT Operation and Modernization solutions to USDA, totaling over 800 million dollars
       - ecq: Building Coalitions - Political Savvy, Partnering
       - ecq: Business Acumen - Financial Management, Technology Management
     - bullet:
@@ -48,15 +47,16 @@
       - text: and measuring personal development goals.
       - ecq: Business Acumen - Human Capital Management
       - ecq: Leading People - Developing Others
+    # - bullet: 
+    #   - text: Spearheaded an organization-wide initiative to create data-driven performance metrics for all the Centers of Excellence (CoE) projects with partner agencies. These metrics enabled us to measure our progress, demonstrate our impact, and communicate the value to stakeholders throughout the federal government.
+    #   - ecq: Results Driven - Entrepreneurship
+    #   - ecq: Results Driven - Accountability
     - bullet: 
-      - text: Spearheaded an organization-wide initiative to create data-driven performance metrics for all the Centers of Excellence (CoE) projects with 
-      - text: partner agencies. These metrics enabled us to measure our progress, demonstrate 
-      - text: our impact, and communicate the value to stakeholders throughout the federal government.
+      - text: Spearheaded an organization-wide initiative to create a data-driven control, risk & performance management framework based on GAO standards and the CMMI model for all the Centers of Excellence (CoE) projects with partner agencies. These metrics enabled us to ensure the quality of delivery, measure our progress, demonstrate our impact, and communicate our value to stakeholders throughout the federal government.
       - ecq: Results Driven - Entrepreneurship
       - ecq: Results Driven - Accountability
     # - bullet:
-    #   - text: Matured budgeting process to include supervisor input on critical decision-making points, yielding more buy-in and higher
-    #   - text: ownership and morale across the CoE organization.
+    #   - text: Matured budgeting process to include supervisor input on critical decision-making points, yielding more buy-in and higher ownership and morale across the CoE organization.
     #   - ecq: Leading People - Team Building
     #   - ecq: Business Acumen - Financial Management
     #   - ecq: Results Driven - Problem Solving
