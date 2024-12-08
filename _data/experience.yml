@@ -20,10 +20,10 @@
       - text: Initiated the creation of an organization-wide risk and control management process pursuant to GAO guidelines.
       - ecq: Leading Change - External Awareness
       - ecq: Results Driven - Accountability
-    - bullet:
-      - text: After coordinating with different stackholders, such as TTS senior leadership, technical experts, and service consumers from various federal agencies, to establish business requirements, I oversaw the creation of the CoE FY24 strategic goals and supervised their implementation through five organization-wide tactical initiatives.
-      - ecq: Building Coalitions - Partnering
-      - ecq: Leading Change - Strategic Thinking
+    # - bullet:
+    #   - text: After coordinating with different stackholders, such as TTS senior leadership, technical experts, and service consumers from various federal agencies, to establish business requirements, I oversaw the creation of the CoE FY24 strategic goals and supervised their implementation through five organization-wide tactical initiatives.
+    #   - ecq: Building Coalitions - Partnering
+    #   - ecq: Leading Change - Strategic Thinking
     # - bullet:
     #   - text: Cultivated a delivery methodology and quality control processes to increase our impact on the federal government and the American public.
     #   - ecq: Results Driven - Problem Solving
@@ -40,13 +40,13 @@
     #   - ecq: Building Coalitions - Partnering
     - bullet:
       - text: Proactively partnered inside General Services Administration with the Information Technology Category and Assisted Acquisition Services to deliver Cloud re-engineering solutions for CDC and Enterprize IT Operation and Modernization solutions to USDA, totaling over 800 million dollars
-      - ecq: Building Coalitions - Political Savvy, Partnering
+      - ecq: TQ3
       - ecq: Business Acumen - Financial Management, Technology Management
-    - bullet:
-      - text: Supervised, developed, and mentored CoE team members and partner agency staff to realize talent's full potential by establishing 
-      - text: and measuring personal development goals.
-      - ecq: Business Acumen - Human Capital Management
-      - ecq: Leading People - Developing Others
+    # - bullet:
+    #   - text: Supervised, developed, and mentored CoE team members and partner agency staff to realize talent's full potential by establishing 
+    #   - text: and measuring personal development goals.
+    #   - ecq: Business Acumen - Human Capital Management
+    #   - ecq: Leading People - Developing Others
     # - bullet: 
     #   - text: Spearheaded an organization-wide initiative to create data-driven performance metrics for all the Centers of Excellence (CoE) projects with partner agencies. These metrics enabled us to measure our progress, demonstrate our impact, and communicate the value to stakeholders throughout the federal government.
     #   - ecq: Results Driven - Entrepreneurship
@@ -64,11 +64,11 @@
     #   - text: Guided supervisors and leaders to ensure standardized performance management and equitable recognition of impact and challenges across the organization. 
     #   - ecq: Leading People - Team Building
     #   - ecq: Business Acumen - Human Capital Management
-    # - bullet: 
-    #   - text: Established a partnership with Cloud.gov to offer impletaion of FedRAMP information security compliance frameworks consulting services
-    #   - text: to agencies across the federal government and standardize the Authorization To Use approach for Cloud.gov pages.
-    #   - ecq: Results Driven - Technical Credibility
-    #   - ecq: Building Coalitions - Partnering
+    - bullet: 
+      - text: Established a partnership with Cloud.gov to offer impletaion of FedRAMP information security compliance frameworks consulting services
+      - text: to agencies across the federal government and standardize the Authorization To Use approach for Cloud.gov pages.
+      - ecq: Results Driven - Technical Credibility
+      - ecq: Building Coalitions - Partnering
 
 
 # Infrastructure Optimization and Cloud Adoption
@@ -80,8 +80,7 @@
   summary: In this role, I managed a small team of senior enterprise technology experts as we guided over 20 federal agencies through various technical and organizational change efforts. Our work furthered the digital delivery capabilities of our partner agencies and allowed them to better serve the American public as a whole.
   bullets:
     - bullet:
-      - text: "Supervise a team of 9 senior leaders, each overseeing their own team of technical experts and two contractor teams of 8 and 16 members, "
-      - text: respectively, implementing multiple IT Modernization programs to meet partner agencies' mission objectives
+      - text: Supervise a team of 9 senior leaders, each overseeing teams of dozens of technical experts, implementing multiple IT Modernization programs to meet partner agencies' mission objectives
       - ecq: Leading People - Team Building
       - ecq: Business Acumen - Human Capital Management
     - bullet:
@@ -90,32 +89,31 @@
       - ecq: Business Acumen - Technology Management
       - ecq: Business Acumen - Financial Management
     - bullet:
-      - text: Led a modernization effort of a 40-year-old system serving more than 2.5M Federal annuitants. Led a coalition of the DOD, GSA, and OPMs contracting teams
-      - text: to execute the acquisition, prototyping, and migration in less than five months 
+      - text: Led a modernization effort of a 40-year-old system serving more than 2.5M Federal annuitants. Led a coalition of the DOD, GSA, and OPMs contracting teams to execute the acquisition, prototyping, and migration in less than five months 
+      - ecq: TQ3
       - ecq: Leading People - Conflict Management, Creativity and Innovation
-    - bullet:
-      - text: Support business development efforts that resulted in engagements totaling over $40 Million in revenue
-      - ecq: Leading Change - External Awareness
-      - ecq: Results Driven - Entrepreneurship
+    # - bullet:
+    #   - text: Support business development efforts that resulted in engagements totaling over $40 Million in revenue
+    #   - ecq: Leading Change - External Awareness
+    #   - ecq: Results Driven - Entrepreneurship
     # - bullet:
     #   - text: Serve as a technical subject matter expert on customer engagements, leading the adoption of new technological practices and implementing organizational change
     #   - text: management methodologies to support enterprise-wide adoption at seven partner agencies
     #   - ecq: Results Driven - Customer Service, Problem Solving, Technical Credibility
     - bullet:
-      - text: Led an agile engagement to support the implementation of the American Rescue Plan Act Farm Loan Forgiveness Program at USDA, enabling the distribution of three 
-      - text: Billion dollars to disadvantaged American farmers
+      - text: Led an agile software development effort to facilitate the implementation of the American Rescue Plan Act Farm Loan Forgiveness Program at USDA, enabling the distribution of three Billion dollars to disadvantaged American farmers
+      - ecq: TQ2
       - ecq: Leading Change - Strategic Thinking
       - ecq: Leading People - Leveraging Diversity
-    # - bullet:
-    #   - text: Oversee software development projects in OPM, GAO, and other agencies from inception to production in Azure and AWS cloud environments, including developing
-    #   - text: Authority to Operate (ATO) software security plan (SSP) documents and Control matrices
-    #   - ecq: Results Driven - Accountability, Technical Credibility
+    - bullet:
+      - text: Oversee software development projects in OPM, GAO, and other agencies from inception to production in Azure and AWS cloud environments, including developing Authority to Operate (ATO) software security plan (SSP) documents and Control matrices
+      - ecq: TQ1, TQ2, TQ3 
+      - ecq: Results Driven - Accountability, Technical Credibility
     # # - bullet:
     #   - text: Led a data analytics and agriculture science research effort with USDA's Farm Service Agency to identify and qualify producers for American Rescue Plan Act Benefits totaling up to $550 million
     - bullet:
-      - text: At the Joint AI Center (JAIC) of the DoD, my team and I implemented an Artificial Intelligence and Machine Learning (AI/ML) DevSecOps pipeline offering Machine
-      - text: learning models processing and analysis as a Service to the DoD community, using a hardened contenatization to ensure proper implemetation of DoD information security
-      - text: compliance IL4 and IL5 frameworks. 
+      - text: At the Joint AI Center (JAIC) of the DoD, my team and I implemented an Artificial Intelligence and Machine Learning (AI/ML) DevSecOps pipeline offering Machine learning models processing and analysis as a Service to the DoD community, using a hardened contenatization to ensure proper implemetation of DoD information security compliance IL4 and IL5 frameworks. 
+      - ecq: TQ1, TQ3
       - ecq: Leading Change - Resilience
       - ecq: Building Coalitions - Political Savvy
     # - bullet:
@@ -154,26 +152,23 @@
   summary: Beeks Financial Cloud is a UK-based low-latency infrastructure service provider for institutional capital markets. In this role, I created the Software Development and System Architecture Practice. Established the Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) offerings then designed and scaled the cloud automation systems that became the primary offering of the firm.
   bullets:
     - bullet:
-      - text: Partnered with the leadership, infrastructure, security, business development, and network operation teams at Beeks to 
-      - text: determine an Enterprise Architecture and Cybersecurity strategy focused on iterative, continuous system standardization and modernization 
-      - text: across global business operations.
+      - text: Partnered with the leadership, infrastructure, security, business development, and network operation teams at Beeks to determine an Enterprise Architecture and Cybersecurity strategy focused on iterative, continuous system standardization and modernization across global business operations.
+      - ecq: TQ1, TQ2
       - ecq: Building Coalitions - Influencing/Negotiating
       - ecq: Leading Change - Vision
     # - bullet:
     #   - text: Ensured that our hosting and service operation met the requirements of information security compliance frameworks ISO 27001 and our financial
     #   - text: processing systems were PCI compliant.
     - bullet:
-      - text: Lead the planning, management and direction of the Beeks Cloud offering, evolving Beaks from a traditional infrastructure provider 
-      - text: to a modern Cloud Infrastructure as a service provider
+      - text: Lead the planning, management and direction of the Beeks Cloud offering, evolving Beaks from a traditional infrastructure provider to a modern Cloud Infrastructure as a service provider
       - ecq: Leading Change - Creativity and Innovation, Strategic Thinking
     - bullet:
-      - text: Created, trained, and Supervised a team of 8 developers and systems engineers to establish a robust automation system that efficiently manages thousands
-      - text: of virtual machines and bare-metal servers. Drove down operating costs by over $50,000 annually
+      - text: Created, trained, and Supervised a team of 8 developers and systems engineers to establish a robust automation system that efficiently manages thousands of virtual machines and bare-metal servers. Drove down operating costs by over $50,000 annually
+      - ecq: TQ2
       - ecq: Leading People - Developing Others, Team Building
       - ecq: Business Acumen - Financial Management
     - bullet:
-      - text: Established an IaaS offering used by hundreds of clients and business partners, improving the availability, ease of access, and efficiency surrounding
-      - text: client infrastructure management and shortened the sales and delivery cycle from weeks to minutes
+      - text: Established an IaaS offering used by hundreds of clients and business partners, improving the availability, ease of access, and efficiency surrounding client infrastructure management and shortened the sales and delivery cycle from weeks to minutes
       - ecq: Business Acumen - Financial Management, Technology Management
 
 # VT CTO
@@ -189,6 +184,7 @@
       - ecq: Leading Change - Strategic Thinking
     - bullet:
       - text: Managed and guided the professional development of a team of over 60 developers and system administrators across four countries
+      - ecq: TQ2
       - ecq:  Leading People - Conflict Management, Developing Others, Team Building
     # - bullet:
     #   - text: Worked with the CEO and CIO to establish and implement organizational policy
@@ -197,8 +193,7 @@
       - text: Managed the technical aspects of mergers and acquisitions efforts and integrated new teams and technologies into the organization
     - bullet:
       - text: Designed and implemented an Information Security Policy to meet the requirements of the information security compliance frameworks of
-      - text: the US Financial Industry Regulatory Authority  (FINRA), UK Financial Conduct Authority (FCA), British Virgin Island Financial Services
-      - text: Commission (FSC), and the European Union European System of Financial Supervision (ESFS)
+      - text: the US Financial Industry Regulatory Authority  (FINRA), UK Financial Conduct Authority (FCA), British Virgin Island Financial Services Commission (FSC), and the European Union European System of Financial Supervision (ESFS)
       - ecq: Leading Change - External Awareness
       - ecq: Building Coalitions - Political Savvy
     - bullet:
