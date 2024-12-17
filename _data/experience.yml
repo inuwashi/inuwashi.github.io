@@ -5,9 +5,12 @@
   position: Infrastructure Optimization and Cloud Adoption</br>Center of Excellence (CoE)</br>Technology Transformation Services (TTS)</br>General Services Administration (GSA)
   duration: 04/2019 &mdash; Present
   show:
-    - all
-  summary: In this role, I managed a small team of senior enterprise technology experts as we guided over 20 federal agencies through various technical and organizational change efforts. Our work furthered the digital delivery capabilities of our partner agencies and allowed them to better serve the American public as a whole.
+    - all 
+  summary: In this role, I managed a team of senior enterprise technology experts as we guided over 20 federal agencies through various technical and organizational change efforts. Our work furthered the digital delivery capabilities of our partner agencies and allowed them to better serve the American public as a whole.
   bullets:
+    - bullet:
+      - text: At OPM, I led the effort to modernize the legacy Retirement Benefits Calculation Service, which serves over 2.7 million annuitants and manages more than $10 billion in distribution. I oversaw the development of system architecture, System Security Plan (SSP), Privacy Impact Assessment (PIA), and user interface design to ensure public safety while delivering a modern user experience.
+      - ecq: Leading People - Team Building
     # - bullet:
     #   - text: Supervise a team of 9 senior leaders, each overseeing their own team of technical experts and two contractor teams of 8 and 16 members, "respectively, implementing multiple IT Modernization programs to meet partner agencies' mission objectives
     #   - ecq: Leading People - Team Building
