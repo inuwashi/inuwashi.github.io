@@ -1,13 +1,25 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Recognitions
+  #uni: Yale University
+  #year: 2004 &mdash; 2008
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: GSA • Group Specila Act Award • 09-2024
+    - award: GSA • Specila Act Award • 09-2023
+    - award: GSA • Specila Act Award • 12-2020
+    - award: GSA • Specila Act Award • 19-2019
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Certifications
+  #uni: Yale University
+  #year: 2004 &mdash; 2008
+  awards:
+    - award: GSA • COR II • 07-2024
+    - award: GSA • Tier 5 T3O Top Secret Clearance • 01-2025
+    - award: Carnegie Mellon • Public Interest Technology • 03-2020
+    
+  #summary: If you had any meaningful roles at college, feel free to write about them here
+
+#- degree: High School Diploma
+#  uni: Springfield High School
+#  year: 2004
+#  award: Most likely to succeed
+#  summary: You can choose to have either a single or multiple awards
