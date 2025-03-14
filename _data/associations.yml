@@ -28,8 +28,8 @@
   summary: Created and launched a data collection and analysis service that evaluates open-source human trafficking intelligence. Explored the clear and dark web supporting a combined FBI, DHS, and MBI task force.
   bullets: 
     - bullet: I managed the Non-For-profit organization's ongoing operation, including funding, budgeting, hiring, and product development
-    - bullet: Managed all development projects from inception through production
+    # - bullet: Managed all development projects from inception through production
     - bullet: Developed a machine learning engine that preprocessed tens of thousands of posts a day and identified a few dozen relevant, potentially criminal posts. This preprocessed list allowed the agents involved to focus their investigative efforts to generate actionable leads for the rest of the task force
     - bullet: Reduced data analysis resource usage by hundreds of person-hours spent researching, investigating, and discovering compelling evidence
     - bullet: Facilitated the rescue of multiple victims by providing timely, actionable intelligence to the task force
-    - bullet: Established Open Source Intelligence gathering and governance policy to meet the requirements of the MBI evidentiary control standards
+    - bullet: Established Open Source Intelligence gathering system to meet the requirements of the MBI evidentiary control standards
